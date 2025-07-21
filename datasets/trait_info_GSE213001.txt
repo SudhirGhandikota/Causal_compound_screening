@@ -1,0 +1,102 @@
+Sample	Class	Location	Diagnosis	Severity	FVC	DLCO	Age group
+ALF019A	IPF.Apex	Apex	IPF	Advanced	47	16	Adult [19-59]
+ALF019B	IPF.Base	Base	IPF	Advanced	47	16	Adult [19-59]
+ALF019C	IPF.Apex	Apex	IPF	Advanced	47	16	Adult [19-59]
+ALF019D	IPF.Base	Base	IPF	Advanced	47	16	Adult [19-59]
+ALF023A	IPF.Apex	Apex	IPF	Advanced	43	17	Senior Adult (>=60)
+ALF023B	IPF.Base	Base	IPF	Advanced	43	17	Senior Adult (>=60)
+ALF023C	IPF.Apex	Apex	IPF	Advanced	43	17	Senior Adult (>=60)
+ALF023D	IPF.Base	Base	IPF	Advanced	43	17	Senior Adult (>=60)
+ALF027A	IPF.Apex	Apex	IPF	Advanced	42	13	Adult [19-59]
+ALF027B	IPF.Base	Base	IPF	Advanced	42	13	Adult [19-59]
+ALF027C	IPF.Apex	Apex	IPF	Advanced	42	13	Adult [19-59]
+ALF027D	IPF.Base	Base	IPF	Advanced	42	13	Adult [19-59]
+ALF032A	IPF.Apex	Apex	IPF	Advanced	0.92	0.31	Adult [19-59]
+ALF032B	IPF.Base	Base	IPF	Advanced	0.92	0.31	Adult [19-59]
+ALF032C	IPF.Apex	Apex	IPF	Advanced	0.92	0.31	Adult [19-59]
+ALF032D	IPF.Base	Base	IPF	Advanced	0.92	0.31	Adult [19-59]
+ALF035A	IPF.Apex	Apex	IPF	Advanced	46	17	Senior Adult (>=60)
+ALF035B	IPF.Base	Base	IPF	Advanced	46	17	Senior Adult (>=60)
+ALF035C	IPF.Apex	Apex	IPF	Advanced	46	17	Senior Adult (>=60)
+ALF035D	IPF.Base	Base	IPF	Advanced	46	17	Senior Adult (>=60)
+ALF038A	IPF.Apex	Apex	IPF	Advanced	38	26	Senior Adult (>=60)
+ALF038B	IPF.Base	Base	IPF	Advanced	38	26	Senior Adult (>=60)
+ALF015A	IPF.Apex	Apex	IPF	Moderate	53	42	Adult [19-59]
+ALF015B	IPF.Base	Base	IPF	Moderate	53	42	Adult [19-59]
+ALF029A	IPF.Apex	Apex	IPF	Moderate	56	NA	Senior Adult (>=60)
+ALF029B	IPF.Base	Base	IPF	Moderate	56	NA	Senior Adult (>=60)
+ALF029C	IPF.Apex	Apex	IPF	Moderate	56	NA	Senior Adult (>=60)
+ALF029D	IPF.Base	Base	IPF	Moderate	56	NA	Senior Adult (>=60)
+ALF041A	IPF.Apex	Apex	IPF	Moderate	60	49	Senior Adult (>=60)
+ALF041B	IPF.Base	Base	IPF	Moderate	60	49	Senior Adult (>=60)
+ALF043A	IPF.Apex	Apex	IPF	Moderate	64	42	Senior Adult (>=60)
+ALF043B	IPF.Base	Base	IPF	Moderate	64	42	Senior Adult (>=60)
+ALF043C	IPF.Apex	Apex	IPF	Moderate	64	42	Senior Adult (>=60)
+ALF043D	IPF.Base	Base	IPF	Moderate	64	42	Senior Adult (>=60)
+ALF001	IPF.Base	Base	IPF	Severe	37	NA	Senior Adult (>=60)
+ALF008A	IPF.Apex	Apex	IPF	Severe	43	36	Senior Adult (>=60)
+ALF008B	IPF.Base	Base	IPF	Severe	43	36	Senior Adult (>=60)
+ALF008C	IPF.Apex	Apex	IPF	Severe	43	36	Senior Adult (>=60)
+ALF008D	IPF.Base	Base	IPF	Severe	43	36	Senior Adult (>=60)
+ALF016A	IPF.Apex	Apex	IPF	Severe	86	17	Senior Adult (>=60)
+ALF016B	IPF.Base	Base	IPF	Severe	86	17	Senior Adult (>=60)
+ALF018A	IPF.Apex	Apex	IPF	Severe	NA	19	Senior Adult (>=60)
+ALF018B	IPF.Base	Base	IPF	Severe	NA	19	Senior Adult (>=60)
+ALF018C	IPF.Apex	Apex	IPF	Severe	NA	19	Senior Adult (>=60)
+ALF018D	IPF.Base	Base	IPF	Severe	NA	19	Senior Adult (>=60)
+ALF028A	IPF.Apex	Apex	IPF	Severe	58	15	Adult [19-59]
+ALF028B	IPF.Apex	Apex	IPF	Severe	58	15	Adult [19-59]
+ALF028C	IPF.Base	Base	IPF	Severe	58	15	Adult [19-59]
+ALF028D	IPF.Base	Base	IPF	Severe	58	15	Adult [19-59]
+ALF037A	IPF.Apex	Apex	IPF	Severe	33	NA	Adult [19-59]
+ALF037B	IPF.Base	Base	IPF	Severe	33	NA	Adult [19-59]
+ALF039A	IPF.Apex	Apex	IPF	Severe	38	31	Senior Adult (>=60)
+ALF039B	IPF.Base	Base	IPF	Severe	38	31	Senior Adult (>=60)
+ALF040A	IPF.Apex	Apex	IPF	Severe	39	NA	Senior Adult (>=60)
+ALF040B	IPF.Base	Base	IPF	Severe	39	NA	Senior Adult (>=60)
+ALF045A	IPF.Apex	Apex	IPF	Severe	50	33	Senior Adult (>=60)
+ALF045B	IPF.Base	Base	IPF	Severe	50	33	Senior Adult (>=60)
+ALF047A	IPF.Apex	Apex	IPF	Severe	54	30	Senior Adult (>=60)
+ALF047B	IPF.Base	Base	IPF	Severe	54	30	Senior Adult (>=60)
+ALF047C	IPF.Apex	Apex	IPF	Severe	54	30	Senior Adult (>=60)
+ALF047D	IPF.Base	Base	IPF	Severe	54	30	Senior Adult (>=60)
+ALF009B	NDC.Base	Base	NDC	Unknown	NA	NA	Adult [19-59]
+ALF009C	NDC.Apex	Apex	NDC	Unknown	NA	NA	Adult [19-59]
+ALF010A	NDC.Apex	Apex	NDC	Unknown	NA	NA	Senior Adult (>=60)
+ALF012A	NDC.Apex	Apex	NDC	Unknown	NA	NA	Senior Adult (>=60)
+ALF012B	NDC.Base	Base	NDC	Unknown	NA	NA	Senior Adult (>=60)
+ALF012E	NDC.Apex	Apex	NDC	Unknown	NA	NA	Senior Adult (>=60)
+ALF012F	NDC.Base	Base	NDC	Unknown	NA	NA	Senior Adult (>=60)
+ALF013A	NDC.Apex	Apex	NDC	Unknown	NA	NA	Adult [19-59]
+ALF013B	NDC.Base	Base	NDC	Unknown	NA	NA	Adult [19-59]
+ALF017A	NDC.Apex	Apex	NDC	Unknown	NA	NA	Adult [19-59]
+ALF017B	NDC.Apex	Apex	NDC	Unknown	NA	NA	Adult [19-59]
+ALF020A	NDC.Apex	Apex	NDC	Unknown	NA	NA	Adult [19-59]
+ALF020B	NDC.Base	Base	NDC	Unknown	NA	NA	Adult [19-59]
+ALF020C	NDC.Apex	Apex	NDC	Unknown	NA	NA	Adult [19-59]
+ALF020D	NDC.Base	Base	NDC	Unknown	NA	NA	Adult [19-59]
+ALF024A	NDC.Apex	Apex	NDC	Unknown	NA	NA	Adult [19-59]
+ALF024B	NDC.Base	Base	NDC	Unknown	NA	NA	Adult [19-59]
+ALF024C	NDC.Apex	Apex	NDC	Unknown	NA	NA	Adult [19-59]
+ALF025A	NDC.Apex	Apex	NDC	Unknown	NA	NA	Adult [19-59]
+ALF025B	NDC.Base	Base	NDC	Unknown	NA	NA	Adult [19-59]
+ALF025C	NDC.Apex	Apex	NDC	Unknown	NA	NA	Adult [19-59]
+ALF025D	NDC.Base	Base	NDC	Unknown	NA	NA	Adult [19-59]
+ALF026A	NDC.Apex	Apex	NDC	Unknown	NA	NA	Adult [19-59]
+ALF026B	NDC.Base	Base	NDC	Unknown	NA	NA	Adult [19-59]
+ALF026C	NDC.Apex	Apex	NDC	Unknown	NA	NA	Adult [19-59]
+ALF026D	NDC.Base	Base	NDC	Unknown	NA	NA	Adult [19-59]
+ALF030A	NDC.Apex	Apex	NDC	Unknown	NA	NA	Adult [19-59]
+ALF030B	NDC.Base	Base	NDC	Unknown	NA	NA	Adult [19-59]
+ALF030C	NDC.Apex	Apex	NDC	Unknown	NA	NA	Adult [19-59]
+ALF030D	NDC.Base	Base	NDC	Unknown	NA	NA	Adult [19-59]
+ALF034A	NDC.Apex	Apex	NDC	Unknown	NA	NA	Senior Adult (>=60)
+ALF034B	NDC.Base	Base	NDC	Unknown	NA	NA	Senior Adult (>=60)
+ALF044A	NDC.Apex	Apex	NDC	Unknown	NA	NA	Senior Adult (>=60)
+ALF044B	NDC.Base	Base	NDC	Unknown	NA	NA	Senior Adult (>=60)
+ALF049A	NDC.Apex	Apex	NDC	Unknown	NA	NA	Senior Adult (>=60)
+ALF049B	NDC.Base	Base	NDC	Unknown	NA	NA	Senior Adult (>=60)
+ALF050A	NDC.Apex	Apex	NDC	Unknown	NA	NA	Adult [19-59]
+ALF050B	NDC.Base	Base	NDC	Unknown	NA	NA	Adult [19-59]
+ALF050C	NDC.Apex	Apex	NDC	Unknown	NA	NA	Adult [19-59]
+ALF050D	NDC.Base	Base	NDC	Unknown	NA	NA	Adult [19-59]

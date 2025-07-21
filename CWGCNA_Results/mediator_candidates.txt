@@ -1,0 +1,146 @@
+NCBI Gene ID	Gene Symbol	Gene Name	Original Symbol					
+5888	RAD51	RAD51 recombinase	RAD51					
+5121	PCP4	Purkinje cell protein 4	PCP4					
+60676	PAPPA2	pappalysin 2	PAPPA2					
+10246	SLC17A2	solute carrier family 17 member 2	SLC17A2					
+125704	DIPK1C	divergent protein kinase domain 1C	DIPK1C					
+1033	CDKN3	cyclin dependent kinase inhibitor 3	CDKN3					
+8973	CHRNA6	cholinergic receptor nicotinic alpha 6 subunit	CHRNA6					
+55821	ALLC	allantoicase	ALLC					
+1296	COL8A2	collagen type VIII alpha 2 chain	COL8A2					
+23057	NMNAT2	nicotinamide nucleotide adenylyltransferase 2	NMNAT2					
+9746	CLSTN3	calsyntenin 3	CLSTN3					
+3858	KRT10	keratin 10	KRT10					
+3861	KRT14	keratin 14	KRT14					
+9244	CRLF1	cytokine receptor like factor 1	CRLF1					
+389658	ALKAL1	ALK and LTK ligand 1	ALKAL1					
+84513	PLPP5	phospholipid phosphatase 5	PLPP5					
+91937	TIMD4	T cell immunoglobulin and mucin domain containing 4	TIMD4					
+55840	EAF2	ELL associated factor 2	EAF2					
+57121	LPAR5	lysophosphatidic acid receptor 5	LPAR5					
+55330	BLOC1S4	biogenesis of lysosomal organelles complex 1 subunit 4	BLOC1S4					
+10024	TROAP	trophinin associated protein	TROAP					
+27178	IL37	interleukin 37	IL37					
+3884	KRT33B	keratin 33B	KRT33B					
+9518	GDF15	growth differentiation factor 15	GDF15					
+302	ANXA2	annexin A2	ANXA2					
+55600	ITLN1	intelectin 1	ITLN1					
+155184	SLC2A7	solute carrier family 2 member 7	SLC2A7					
+10549	PRDX4	peroxiredoxin 4	PRDX4					
+4661	MYT1	myelin transcription factor 1	MYT1					
+116535	MRGPRF	MAS related GPR family member F	MRGPRF					
+284467	TAFA3	TAFA chemokine like family member 3	FAM19A3					
+56	ACRV1	acrosomal vesicle protein 1	ACRV1					
+570	BAAT	bile acid-CoA:amino acid N-acyltransferase	BAAT					
+65083	NOL6	nucleolar protein 6	NOL6					
+400966	RGPD1	RANBP2 like and GRIP domain containing 1	RGPD1					
+92736	OTOP2	otopetrin 2	OTOP2					
+728137	TSPY3	testis specific protein Y-linked 3	TSPY3					
+54858	PGPEP1	pyroglutamyl-peptidase I	PGPEP1					
+283208	P4HA3	prolyl 4-hydroxylase subunit alpha 3	P4HA3					
+150350	ENTHD1	ENTH domain containing 1	ENTHD1					
+51535	PPHLN1	periphilin 1	PPHLN1					
+135250	RAET1E	retinoic acid early transcript 1E	RAET1E					
+57171	DOLPP1	dolichyldiphosphatase 1	DOLPP1					
+347730	LRRTM1	leucine rich repeat transmembrane neuronal 1	LRRTM1					
+55127	HEATR1	HEAT repeat containing 1	HEATR1					
+93273	LEMD1	LEM domain containing 1	LEMD1					
+425054	VCX3B	variable charge X-linked 3B	VCX3B					
+79711	IPO4	importin 4	IPO4					
+4191	MDH2	malate dehydrogenase 2	MDH2					
+3426	CFI	complement factor I	CFI					
+151648	SGO1	shugoshin 1	SGO1					
+84069	PLEKHN1	pleckstrin homology domain containing N1	PLEKHN1					
+23397	NCAPH	non-SMC condensin I complex subunit H	NCAPH					
+1382	CRABP2	cellular retinoic acid binding protein 2	CRABP2					
+51303	FKBP11	FKBP prolyl isomerase 11	FKBP11					
+169834	ZNF883	zinc finger protein 883	ZNF883					
+10345	TRDN	triadin	TRDN					
+158062	LCN6	lipocalin 6	LCN6					
+9071	CLDN10	claudin 10	CLDN10					
+285556	C4orf54	chromosome 4 open reading frame 54	C4orf54					
+50801	KCNK4	potassium two pore domain channel subfamily K member 4	KCNK4					
+1138	CHRNA5	cholinergic receptor nicotinic alpha 5 subunit	CHRNA5					
+9075	CLDN2	claudin 2	CLDN2					
+54900	LAX1	lymphocyte transmembrane adaptor 1	LAX1					
+629	CFB	complement factor B	CFB					
+56952	PRTFDC1	phosphoribosyl transferase domain containing 1	PRTFDC1					
+55165	CEP55	centrosomal protein 55	CEP55					
+387718	TEX36	testis expressed 36	TEX36					
+2695	GIP	gastric inhibitory polypeptide	GIP					
+4745	NELL1	neural EGFL like 1	NELL1					
+26509	MYOF	myoferlin	MYOF					
+143503	OR51E1	olfactory receptor family 51 subfamily E member 1	OR51E1					
+59284	CACNG7	calcium voltage-gated channel auxiliary subunit gamma 7	CACNG7					
+3226	HOXC10	homeobox C10	HOXC10					
+5020	OXT	oxytocin/neurophysin I prepropeptide	OXT					
+10911	UTS2	urotensin 2	UTS2					
+2208	FCER2	Fc epsilon receptor II	FCER2					
+26529	OR12D2	olfactory receptor family 12 subfamily D member 2	OR12D2					
+2978	GUCA1A	guanylate cyclase activator 1A	GUCA1A					
+94115	CGB8	chorionic gonadotropin subunit beta 8	CGB8					
+27299	ADAMDEC1	ADAM like decysin 1	ADAMDEC1					
+63910	SLC17A9	solute carrier family 17 member 9	SLC17A9					
+25770	C22orf31	chromosome 22 open reading frame 31	C22orf31					
+54443	ANLN	"anillin, actin binding protein"	ANLN					
+50604	IL20	interleukin 20	IL20					
+168620	BHLHA15	basic helix-loop-helix family member a15	BHLHA15					
+2734	GLG1	golgi glycoprotein 1	GLG1					
+283316	CD163L1	CD163 molecule like 1	CD163L1					
+151473	SLC16A14	solute carrier family 16 member 14	SLC16A14					
+55220	KLHDC8A	kelch domain containing 8A	KLHDC8A					
+63924	CIDEC	cell death inducing DFFA like effector c	CIDEC					
+284338	PRR19	proline rich 19	PRR19					
+80310	PDGFD	platelet derived growth factor D	PDGFD					
+9655	SOCS5	suppressor of cytokine signaling 5	SOCS5					
+57529	RTL9	retrotransposon Gag like 9	RTL9					
+54972	TMEM132A	transmembrane protein 132A	TMEM132A					
+1469	CST1	cystatin SN	CST1					
+445	ASS1	argininosuccinate synthase 1	ASS1					
+701	BUB1B	BUB1 mitotic checkpoint serine/threonine kinase B	BUB1B					
+2494	NR5A2	nuclear receptor subfamily 5 group A member 2	NR5A2					
+8128	ST8SIA2	"ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 2"	ST8SIA2					
+4288	MKI67	marker of proliferation Ki-67	MKI67					
+149699	GTSF1L	gametocyte specific factor 1 like	GTSF1L					
+259266	ASPM	assembly factor for spindle microtubules	ASPM					
+85445	CNTNAP4	contactin associated protein family member 4	CNTNAP4					
+49860	CRNN	cornulin	CRNN					
+23495	TNFRSF13B	TNF receptor superfamily member 13B	TNFRSF13B					
+646862	RNF225	ring finger protein 225	RNF225					
+57801	HES4	hes family bHLH transcription factor 4	HES4					
+9162	DGKI	diacylglycerol kinase iota	DGKI					
+2762	GMDS	"GDP-mannose 4,6-dehydratase"	GMDS					
+284110	GSDMA	gasdermin A	GSDMA					
+81610	FAM83D	family with sequence similarity 83 member D	FAM83D					
+974	CD79B	CD79b molecule	CD79B					
+6094	ROM1	retinal outer segment membrane protein 1	ROM1					
+720	C4A	complement C4A (Chido/Rodgers blood group)	C4A					
+721	C4B	complement C4B (Chido/Rodgers blood group)	C4B					
+389332	SMIM32	small integral membrane protein 32	SMIM32					
+81618	ITM2C	integral membrane protein 2C	ITM2C					
+1237	CCR8	C-C motif chemokine receptor 8	CCR8					
+200150	PLD5	phospholipase D family member 5	PLD5					
+6357	CCL13	C-C motif chemokine ligand 13	CCL13					
+283869	NPW	neuropeptide W	NPW					
+4314	MMP3	matrix metallopeptidase 3	MMP3					
+6363	CCL19	C-C motif chemokine ligand 19	CCL19					
+401115	NICOL1	NELL2 interacting cell ontogeny regulator 1	C4orf48					
+2525	FUT3	fucosyltransferase 3 (Lewis blood group)	FUT3					
+221150	SKA3	spindle and kinetochore associated complex subunit 3	SKA3					
+1758	DMP1	dentin matrix acidic phosphoprotein 1	DMP1					
+84958	SYTL1	synaptotagmin like 1	SYTL1					
+10720	UGT2B11	UDP glucuronosyltransferase family 2 member B11	UGT2B11					
+54756	IL17RD	interleukin 17 receptor D	IL17RD					
+349667	RTN4RL2	reticulon 4 receptor like 2	RTN4RL2					
+1001	CDH3	cadherin 3	CDH3					
+150763	GPAT2	"glycerol-3-phosphate acyltransferase 2, mitochondrial"	GPAT2					
+51179	HAO2	hydroxyacid oxidase 2	HAO2					
+5100	PCDH8	protocadherin 8	PCDH8					
+8941	CDK5R2	cyclin dependent kinase 5 regulatory subunit 2	CDK5R2					
+10483	SEC23B	"SEC23 homolog B, COPII coat complex component"	SEC23B					
+64499	TPSB2	tryptase beta 2	TPSB2					
+284656	EPHA10	EPH receptor A10	EPHA10					
+27127	SMC1B	structural maintenance of chromosomes 1B	SMC1B					
+26872	STEAP1	STEAP family member 1	STEAP1					
+27132	CPNE7	copine 7	CPNE7					
+766	CA7	carbonic anhydrase 7	CA7	
